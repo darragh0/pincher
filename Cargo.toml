@@ -1,0 +1,19 @@
+[package]
+name = "pincher"
+description = "A simple, speedy CLI argument parser for Rust"
+version = "0.1.0"
+edition = "2024"
+authors = ["darragh0"]
+repository = "https://github.com/darragh0/pincher"
+readme = "README.md"
+license = "MIT"
+categories = ["command-line-interface"]
+keywords = [
+  "argument",
+  "cli",
+  "arg",
+  "parser",
+  "parse",
+]
+
+[dependencies]
